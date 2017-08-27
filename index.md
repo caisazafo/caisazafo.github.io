@@ -7,7 +7,7 @@
 ## New Repository!
 Now you can get the new repository of Visual Computing content.
 
-Link: https://github.com/caisazafo/VisualComputing
+Link: [acá](https://github.com/caisazafo/VisualComputing)
 
 ### Cognitive_ws activity are now available!
 
