@@ -8,7 +8,15 @@ Now you can get the new repository of Visual Computing content.
 
 Link: [acá](https://github.com/caisazafo/VisualComputing)
 
+
+==========================================================================================
+
+
 ### Cognitive_ws activity are now available!
+
+
+==========================================================================================
+
 
 ## Taller 2 are now available!
 
